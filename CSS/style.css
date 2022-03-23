@@ -1,0 +1,35 @@
+body {
+    font-family: Times, "Times New Roman", serif;
+}
+
+.navbar {
+    margin-left: 25%;
+    font-size: 23px;
+}
+
+.imgHome {
+    border-radius: 50%;
+    border: 1px solid rgb(77, 77, 77);
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.aboutme {
+    text-align: justify;
+}
+
+.title {
+    padding-bottom: 10px;
+}
+
+.repository_img {
+    margin: 10px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
